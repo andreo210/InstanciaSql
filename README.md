@@ -1,1 +1,1 @@
-# InstanciaSql
+# Para criar uma Instância Gerenciada de SQL do Azure, aceda ao portal do Azure, navegue até a página de criação da Instância Gerenciada de SQL e selecione um nome, uma configuração de rede virtual e as opções de autenticação para a instância, seguindo as instruções do início rápido e do modelo do Azure Resource Manager (ARM) no portal do Azure, que guia através do processo de implantação
